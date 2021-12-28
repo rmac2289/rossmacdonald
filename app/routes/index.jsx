@@ -11,7 +11,7 @@ export default function Index() {
         position: "relative",
         marginLeft: 50,
         marginRight: 50,
-        background: "lightgrey",
+        background: "rgba(0,0,0,0.05)",
       }}
     >
       <div
